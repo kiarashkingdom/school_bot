@@ -45,16 +45,13 @@ Edit `config.py`:
 
 ```python
 database_name = 'your_database_name'
+
 database_config = {
     'host': 'your_host',
     'user': 'your_user',
     'password': 'your_password'
 }
-```
 
-Edit `main.py` – set your bot token:
-
-```python
 API_TOKEN = 'your_bot_token'
 ```
 
@@ -112,16 +109,13 @@ python DDL.py
 
 ```python
 database_name = 'نام_دیتابیس'
+
 database_config = {
     'host': 'آدرس_هاست',
     'user': 'نام_کاربری',
     'password': 'رمز_عبور'
 }
-```
 
-در `main.py` توکن ربات را وارد کنید:
-
-```python
 API_TOKEN = 'توکن_ربات'
 ```
 
