@@ -67,6 +67,32 @@ python main.py
 - **Admin:** Log in → use "Weekly schedule" → select week, day, period → view files → add to print queue.
 
 ---
+---
+
+## 📁 Project Structure
+
+```
+school_bot/
+├── main.py          # Main bot code
+├── config.py           # Database configuration
+├── DDL.py              # Create tables
+├── DML.py              # Insert operations
+├── DQL.py              # Query operations
+├── Texts.py            # Text messages
+├── requirements.txt    # Dependencies
+└── Data/               # Uploaded files (date‑folders)
+```
+
+## 📄 License
+
+MIT License – see [LICENSE](LICENSE) file.
+
+## 👤 Author
+
+**kiarashkingdom**  
+GitHub: [@kiarashkingdom](https://github.com/kiarashkingdom)
+
+---
 
 ## 🇮🇷 فارسی
 
@@ -130,27 +156,22 @@ python main.py
 - **معلم:** ثبت‌نام → دکمه «آپلود فایل جدید» → ارسال فایل با کپشن فرمت مشخص‌شده
 - **ادمین:** ورود → دکمه «برنامه هفتگی» → انتخاب هفته، روز، زنگ → مشاهده فایل‌ها → اضافه به صف تکثیر
 
----
-
-## 📁 Project Structure
-
+###📁 ساختار پروژه
 ```
 school_bot/
-├── main.py          # Main bot code
-├── config.py           # Database configuration
-├── DDL.py              # Create tables
-├── DML.py              # Insert operations
-├── DQL.py              # Query operations
-├── Texts.py            # Text messages
-├── requirements.txt    # Dependencies
-└── Data/               # Uploaded files (date‑folders)
+├── main.py          # کد اصلی ربات
+├── config.py        # تنظیمات دیتابیس
+├── DDL.py           # ساخت جداول
+├── DML.py           # عملیات درج اطلاعات
+├── DQL.py           # عملیات دریافت اطلاعات
+├── Texts.py         # متن‌های پیام‌ها
+├── requirements.txt # کتابخانه‌های مورد نیاز
+└── Data/            #فایل‌های آپلود شده (پوشه‌های تاریخ)
 ```
 
-## 📄 License
+###📄 مجوز
+این پروژه تحت مجوز MIT منتشر شده است – برای جزئیات بیشتر فایل  [LICENSE](LICENSE) را ببینید.
 
-MIT License – see [LICENSE](LICENSE) file.
-
-## 👤 Author
-
-**kiarashkingdom**  
-GitHub: [@kiarashkingdom](https://github.com/kiarashkingdom)
+###👤 نویسنده
+**kiarashkingdom** 
+گیت‌هاب: [@kiarashkingdom](https://github.com/kiarashkingdom)
