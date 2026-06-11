@@ -4,6 +4,7 @@
 
 ---
 
+<a name="english"></a>
 ## 🇬🇧 English
 
 Telegram bot for managing the printing queue of educational files.
@@ -93,7 +94,7 @@ MIT License – see [LICENSE](LICENSE) file.
 GitHub: [@kiarashkingdom](https://github.com/kiarashkingdom)
 
 ---
-
+<a name="persian"></a>
 ## 🇮🇷 فارسی
 
 ربات تلگرامی مدیریت صف تکثیر فایل‌های آموزشی.
