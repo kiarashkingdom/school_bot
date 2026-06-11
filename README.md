@@ -1,6 +1,6 @@
 # 📚 School Print Queue Bot
 
-**English / [فارسی](#ایران-فارسی)**
+**[English](#english) \ [فارسی](#persian)**
 
 ---
 
